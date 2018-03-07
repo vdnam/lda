@@ -1,0 +1,49 @@
+[EC21] REQUESTING FOR QUOTATION ON DATA PROGRAMMING / RESEARCHING SERVICE
+
+I. About Customer
+We are the No.1 marketing research and consulting company in South Korea with the world's second largest online B2B platform. Our major clients are mostly Korean government institutions as well as 300 SMEs in Korea who require our services for research and consulting in projects.
+
+You can refer more about our company in the following link :
+ 
+EC21 : http://www.ec21.co.kr/
+
+II. About Project
+We are currently working with Korea Cosmetic Industry Institute under a project we called as Global Focus Cosmetic where we provide beauty news, or trends analysis from time to time to the institute. We were having problem with NLP (Natural Language Processing) method when we tried to analyse the trends, so I am sending you this email which is related with what has been discussed in the phone before where we are looking for companies that can provide the services as shown below:
+ 
+* LDA Topic Model Method
+1. Obtaining Posterior Value in Document by topics
+2. Obtaining Keywords by topics (around 30 keywords per topic)
+( No. of topics : 15 )
+3. LDA Script (OPTIONAL)
+ 
+Basically we would like to request to provide both information mentioned above for top 15 topics regarding beauty and cosmetics. We also have attached some beauty and cosmetic related news for your reference.
+
+III. Question & Answer
+1. The problem in this project is about NLP (Natural Language Processing), so which language that are used to analyze: English, Korean or multi-language ?
+	- Answer:  Since this vietnam news so we are expecting vietnam language.
+
+2. If the language is not English (e.g. Korean), it’s big challenge for NLP. Almost NLP’s library is implement for English, so do they have any work on other language? Such as researching, implement library, other work or project that process on this language.  
+	- Answer:  We are focusing on vietnamese language.
+
+3. Just confirm: They request LDA as algorithm for analyzing data, so do they need TMA provide another algorithms or just follow LDA to implement ?
+	- Answer:  You just need to follow the LDA to implement.
+
+4. Do they have raw data ? if do not, do we need implement the crawler to collect raw data ?
+	- Answer:  You can just do it based on the raw data that we have given to you, you do not have to look for the start.
+
+5. As I know, the project is used to provide beauty news, or trends analysis from time to time, but in below, I think they just request for Data Science programmer (for NLP), so do we need investigate and provide them the way to analyze trend ?
+	- Answer:  That is not necessary for now.
+
+6. For sample data, I can’t read the content from 2 files ([sample] posterior value, [sample] keyword_Topic). It may be missing font, so can they send us another file or give us the font to open these file? Based on the format of sample data, I also have some concerns:
+	a. Is final result the same as .csv file ? 
+		- Answer:  Yes.
+	b. Topics will be given as in keywords_topics.csv or will be estimate based on statistical likelihood ?
+		- Answer:  Just give the topics based on keywords_topics.csv
+	c. Do they need a fully programing (from data preprocessing to LDA) or just implement LDA for generating those results ?
+		- Answer:  It would be great if you could give us the fully programming ( data + LDA script ) but if you can't, by just implementing LDA to generate the results would be fine too.
+
+7. TMA implement LDA script mean write a function/program with input parameters that implement LDA algorithms and TMA don’t care about input data. Is that right ?
+	- Answer: Yes . Can you provide us that too?
+
+8. As I know, LDA is an algorithm that discovers the different topics that the documents represent and how much of each topic is present in a document, so it’s just read input data and generate the result. So the important thing is the way that we process raw data (NLP). Each language will have different NLP way and TMA don’t need to care about the NLP for Vietnamese language at this time ?
+	- Answer: The raw data that we are about to ask you to analyze is in the file I have given you and in those files are in vietnamese language so I believe you need to analyze the vietnamese language for the raw data.

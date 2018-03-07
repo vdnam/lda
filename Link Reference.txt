@@ -1,0 +1,8 @@
+LDA
+- https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3741049972324885/3783546674231782/4413065072037724/latest.html
+- https://zerogravitylabs.ca/lda-topic-modeling-spark-mllib/
+- https://arxiv.org/ftp/arxiv/papers/1711/1711.04305.pdf
+- https://github.com/EdwardRaff/JSAT/wiki/Basic-Topic-Modeling-with-LDA
+- https://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html
+- https://github.com/Nitro/scalda
+- https://blog.knoldus.com/2016/10/08/spark-lda-clustering/
